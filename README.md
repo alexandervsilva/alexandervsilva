@@ -92,7 +92,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dark&hide_border=false&include_all_commits=true&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dark&hide_border=false&include_all_commits=true&show_icons=true&count_private=true"
         alt="Github Stats"
       />
     </td>
