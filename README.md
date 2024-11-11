@@ -99,6 +99,13 @@
     </td>
   </tr>
 </table>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Alexander.Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)](www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)
+[![Gmail Badge](https://img.shields.io/badge/-dev.asilva.rj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.asilva.rj@gmail.com)](mailto:dev.asilva.rj@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/alexandervsilva?label=follow&style=social)](https://github.com/alexandervsilva)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandervsilva}/count.svg" /></p> 
